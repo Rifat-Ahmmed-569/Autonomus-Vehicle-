@@ -1,75 +1,88 @@
-<img width="1536" height="2048" alt="603955078_1285376736962741_9189894875745162355_n" src="https://github.com/user-attachments/assets/a500b8d6-c8e1-4852-8fcc-f163599f9379" />
-
-<img width="1259" height="1259" alt="AzmainProfile" src="https://github.com/user-attachments/assets/6c92d9c4-bfdc-420a-86fe-d12926c3da82" />
 ## 1. Team Introduction
 
 <div align="center">
 
-# ⟨ TEAM DURNIBAR ⟩
-
-### `AUTONOMOUS SYSTEMS DIVISION`
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&labelColor=0a0a0a" alt="Status Online">
-<img src="https://img.shields.io/badge/WRO-2026-0a0a0a?style=for-the-badge&logo=robotframework&logoColor=00ffcc" alt="WRO 2026">
-<img src="https://img.shields.io/badge/CATEGORY-FUTURE_ENGINEERS-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=00ffcc" alt="Future Engineers">
+<img src="https://img.shields.io/badge/COUNTRY-BANGLADESH-006A4E?style=for-the-badge&labelColor=000000" alt="Bangladesh"/> <img src="https://img.shields.io/badge/COMPETITION-WRO_2026-0A84FF?style=for-the-badge&labelColor=000000" alt="WRO 2026"/> <img src="https://img.shields.io/badge/CATEGORY-FUTURE_ENGINEERS-FFB800?style=for-the-badge&labelColor=000000" alt="Future Engineers"/> <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00E676?style=for-the-badge&labelColor=000000" alt="Status: Operational"/>
 
 <br><br>
 
+# ⌁ TEAM DURNIBAR
 
----
+### `AUTONOMOUS SYSTEMS` · `ROBOTICS ENGINEERING` · `BANGLADESH`
 
-**Team Durnibar** is a collegiate robotics unit from **Bangladesh**, engineered to compete in the **Future Engineers** category at the **World Robot Olympiad (WRO) 2026** — building autonomous systems that perceive, decide, and act.
-
-</div>
-
----
-
-<div align="center">
-
-### `// CREW MANIFEST — 3 UNITS ONLINE`
+<sub>A collegiate robotics engineering team building autonomous systems for the <strong>World Robot Olympiad 2026</strong> — Future Engineers category.</sub>
 
 </div>
 
-<table align="center">
+<br>
+
+<table align="center" width="100%">
+<tr>
+<td align="center"><sub><code>REGION</code></sub><br><strong>Bangladesh 🇧🇩</strong></td>
+<td align="center"><sub><code>EVENT</code></sub><br><strong>WRO 2026</strong></td>
+<td align="center"><sub><code>DIVISION</code></sub><br><strong>Future Engineers</strong></td>
+<td align="center"><sub><code>UNIT</code></sub><br><strong>Team Durnibar</strong></td>
+</tr>
+</table>
+
+<br>
+
+<div align="center"><sub>▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚</sub></div>
+
+### ⌁ Engineering Roster
+
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
-     <img width="1259" height="1259" alt="AzmainProfile" src="https://github.com/user-attachments/assets/6c92d9c4-bfdc-420a-86fe-d12926c3da82" /><img width="622" height="622" alt="mahfuj" src="https://github.com/user-attachments/assets/2bc0b73b-0feb-4b0d-93d3-f33e68a62ade" />
-<img width="622" height="622" alt="mahfuj" src="https://github.com/user-attachments/assets/c028ed95-7d21-4136-8ec4-60303f685ff6" />
-<br><br>
-      <code>UNIT_01</code><br>
-      <strong>AZMAIN SHAK RUBAYED</strong><br>
-      <sub>⟨ TEAM LEAD // CAD &amp; VISION SYSTEMS ⟩</sub><br><br>
-      <img src="https://img.shields.io/badge/Fusion_360-0a0a0a?style=flat-square&logo=autodesk&logoColor=00ffcc" alt="Fusion 360">
-      <img src="https://img.shields.io/badge/ROS_2-0a0a0a?style=flat-square&logo=ros&logoColor=00ffcc" alt="ROS 2"><br>
-      <img src="https://img.shields.io/badge/OpenCV-0a0a0a?style=flat-square&logo=opencv&logoColor=00ffcc" alt="OpenCV">
-      <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00ffcc" alt="Python"><br><br>
-      <a href="mailto:rubayed_41220200226@nub.ac.bd">⟢ TRANSMIT MESSAGE</a>
+    <td align="center" width="33%" valign="top">
+      <img src="./assets/team/AzmainProfile.jpg" width="150" height="150"><br><br>
+      <strong>Azmain Shak Rubayed</strong><br>
+      <sub><code>TEAM LEAD</code> · <code>CAD & VISION SYSTEMS</code></sub>
+      <br><br>
+      <sub><strong>STACK</strong></sub><br>
+      <img src="https://img.shields.io/badge/Fusion_360-F7931E?style=flat-square&logo=autodesk&logoColor=white" alt="Fusion 360"/>
+      <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <br><br>
+      <a href="mailto:rubayed_41220200226@nub.ac.bd">✉ Contact</a>
     </td>
-    <td align="center" width="33%">
-     <img width="1536" height="2048" alt="603955078_1285376736962741_9189894875745162355_n" src="https://github.com/user-attachments/assets/a500b8d6-c8e1-4852-8fcc-f163599f9379" /><br><br>
-      <code>UNIT_02</code><br>
-      <strong>RIFAT AHMMED</strong><br>
-      <sub>⟨ EMBEDDED SOFTWARE &amp; CONTROL ⟩</sub><br><br>
-      <img src="https://img.shields.io/badge/Embedded_Systems-0a0a0a?style=flat-square&logo=arduino&logoColor=00ffcc" alt="Embedded Systems">
-      <img src="https://img.shields.io/badge/Control_Theory-0a0a0a?style=flat-square&logoColor=00ffcc" alt="Control Theory"><br><br>
-      <sub>Independent University, Bangladesh</sub><br><br>
-      <a href="mailto:ra7260352@email.com">⟢ TRANSMIT MESSAGE</a>
+    <td align="center" width="33%" valign="top">
+      <img src="./assets/team/rifat.jpg" width="150" height="150"><br><br>
+      <strong>Rifat Ahmmed</strong><br>
+      <sub><code>EMBEDDED SOFTWARE</code> · <code>CONTROL SYSTEMS</code></sub>
+      <br><br>
+      <sub><strong>AFFILIATION</strong></sub><br>
+      <sub>Independent University, Bangladesh</sub>
+      <br><br><br>
+      <a href="mailto:ra7260352@email.com">✉ Contact</a>
     </td>
-    <td align="center" width="33%">
-      <img src="./assets/team/mahfuj.jpg" width="160" height="160" style="border-radius: 50%; border: 3px solid #00ffcc;"><br><br>
-      <code>UNIT_03</code><br>
-      <strong>MAHFUJ ROHOMAN</strong><br>
-      <sub>⟨ ELECTRONICS &amp; HARDWARE INTEGRATION ⟩</sub><br><br>
-      <img src="https://img.shields.io/badge/Electronics-0a0a0a?style=flat-square&logoColor=00ffcc" alt="Electronics">
-      <img src="https://img.shields.io/badge/Hardware_Integration-0a0a0a?style=flat-square&logo=raspberrypi&logoColor=00ffcc" alt="Hardware Integration"><br><br>
-      <sub>Independent University, Bangladesh</sub><br><br>
-      <a href="mailto:member3@email.com">⟢ TRANSMIT MESSAGE</a>
+    <td align="center" width="33%" valign="top">
+      <img src="./assets/team/mahfuj.jpg" width="150" height="150"><br><br>
+      <strong>Mahfuj Rohoman</strong><br>
+      <sub><code>ELECTRONICS</code> · <code>HARDWARE INTEGRATION</code></sub>
+      <br><br>
+      <sub><strong>AFFILIATION</strong></sub><br>
+      <sub>Independent University, Bangladesh</sub>
+      <br><br><br>
+      <a href="mailto:member3@email.com">✉ Contact</a>
     </td>
   </tr>
 </table>
 
+<div align="center"><sub>▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚</sub></div>
+
+<details>
+<summary><strong>⌁ Team Architecture</strong></summary>
+<br>
+
+| Layer | Owner | Focus |
+|---|---|---|
+| **Design / Vision** | Azmain Shak Rubayed | CAD modeling, computer vision, team leadership |
+| **Firmware / Control** | Rifat Ahmmed | Embedded software, control logic |
+| **Hardware / Electronics** | Mahfuj Rohoman | Circuit integration, sensor & actuator systems |
+
+</details>
+
 <div align="center">
-
-`SYSTEM CHECK: ALL UNITS OPERATIONAL` &nbsp;·&nbsp; `MISSION: WRO 2026` &nbsp;·&nbsp; `LOCATION: BANGLADESH 🇧🇩`
-
+<sub><strong>Team Durnibar</strong> · Built for WRO 2026 · Future Engineers</sub>
 </div>
