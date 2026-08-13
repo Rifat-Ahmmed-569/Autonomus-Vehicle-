@@ -1,3 +1,6 @@
+<img width="1536" height="2048" alt="603955078_1285376736962741_9189894875745162355_n" src="https://github.com/user-attachments/assets/a500b8d6-c8e1-4852-8fcc-f163599f9379" />
+
+<img width="1259" height="1259" alt="AzmainProfile" src="https://github.com/user-attachments/assets/6c92d9c4-bfdc-420a-86fe-d12926c3da82" />
 ## 1. Team Introduction
 
 <div align="center">
@@ -30,7 +33,9 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="./assets/team/AzmainProfile.jpg" width="160" height="160" style="border-radius: 50%; border: 3px solid #00ffcc;"><br><br>
+     <img width="1259" height="1259" alt="AzmainProfile" src="https://github.com/user-attachments/assets/6c92d9c4-bfdc-420a-86fe-d12926c3da82" /><img width="622" height="622" alt="mahfuj" src="https://github.com/user-attachments/assets/2bc0b73b-0feb-4b0d-93d3-f33e68a62ade" />
+<img width="622" height="622" alt="mahfuj" src="https://github.com/user-attachments/assets/c028ed95-7d21-4136-8ec4-60303f685ff6" />
+<br><br>
       <code>UNIT_01</code><br>
       <strong>AZMAIN SHAK RUBAYED</strong><br>
       <sub>⟨ TEAM LEAD // CAD &amp; VISION SYSTEMS ⟩</sub><br><br>
@@ -41,7 +46,7 @@
       <a href="mailto:rubayed_41220200226@nub.ac.bd">⟢ TRANSMIT MESSAGE</a>
     </td>
     <td align="center" width="33%">
-      <img src="./assets/team/rifat.jpg" width="160" height="160" style="border-radius: 50%; border: 3px solid #00ffcc;"><br><br>
+     <img width="1536" height="2048" alt="603955078_1285376736962741_9189894875745162355_n" src="https://github.com/user-attachments/assets/a500b8d6-c8e1-4852-8fcc-f163599f9379" /><br><br>
       <code>UNIT_02</code><br>
       <strong>RIFAT AHMMED</strong><br>
       <sub>⟨ EMBEDDED SOFTWARE &amp; CONTROL ⟩</sub><br><br>
